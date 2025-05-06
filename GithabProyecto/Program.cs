@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace GithabProyecto
+{
+    internal class program
+    {
+        static void Main (string[] args)
+        {
+            Console.WriteLine("Mi Primer Proyecto De Githab");
+        }
+    }
+}
